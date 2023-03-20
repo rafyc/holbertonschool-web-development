@@ -9,9 +9,9 @@ _For this project, we expect you to look at these concepts:_
 - [HTML Semantic Elements](https://intranet.hbtn.io/concepts/838)
 - [HTML Validation](https://intranet.hbtn.io/concepts/839)
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG/20230320/eu-west-3/s3/aws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8e18d46fac25691d98fe2dbf68032a33da7b80bbcee1e1fbe3271fc457d5dc8a)
+![1](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG/20230320/eu-west-3/s3/aws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8e18d46fac25691d98fe2dbf68032a33da7b80bbcee1e1fbe3271fc457d5dc8a)
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/97c8976d2ff5ff1871d7a0815b72773379df6acb.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=73c7a0dd0525d5ecd68654b2bef1484c1b1aa23bd49165e8c876c50c503bc97a)
+![2](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/97c8976d2ff5ff1871d7a0815b72773379df6acb.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=73c7a0dd0525d5ecd68654b2bef1484c1b1aa23bd49165e8c876c50c503bc97a)
 
 ## Resources
 
@@ -46,7 +46,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Tasks
 
-### 0. README and objectives!
+### 0. README and objectives
 
 mandatory
 
@@ -61,7 +61,7 @@ This designer file will be available on [Figma](https://intranet.hbtn.io/rltoken
 
 And “Duplicate to your Drafts” to have access to all design details.
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/559ad8d43fb61e310e2b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5e3eabe2c2bb2ca7a2945c93eb09369c01c962aae81d6cb3e28ce03b57201237)
+![3](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/3/559ad8d43fb61e310e2b.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=5e3eabe2c2bb2ca7a2945c93eb09369c01c962aae81d6cb3e28ce03b57201237)
 
 Important notes with Figma:
 
@@ -96,7 +96,7 @@ Let’s start by the top: **the header**
 
 Here the wireframe of it:
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/415b0226fd338ff76a330b371fc83c9224254c47.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a3667d63eb19359b12402b42f0cb90aa215ade85090455422232be595f1ff804)
+![4](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/415b0226fd338ff76a330b371fc83c9224254c47.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a3667d63eb19359b12402b42f0cb90aa215ade85090455422232be595f1ff804)
 
 - Create the HTML skeleton (`html`, `head`, `body`, etc.)
 
@@ -129,7 +129,7 @@ mandatory
 
 Now, the banner under the `header`:
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/ee07503a513036f49d73b31df339ee798f9f277f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ac42b181316cf0f975291a588301ae14f603967ca46fecf973076311a3376232)
+![5](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/ee07503a513036f49d73b31df339ee798f9f277f.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ac42b181316cf0f975291a588301ae14f603967ca46fecf973076311a3376232)
 
 Under the `header`, add a `main` element with inside a `section` element.
 
@@ -170,7 +170,7 @@ mandatory
 
 Under the banner, we will add the quote block:
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/25b4264f9266962bffb39791b265317cc5ff8147.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cf292291b180159454ad183dd158b07d027fdf13a233dec5fe245072b78bda76)
+![6](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/25b4264f9266962bffb39791b265317cc5ff8147.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cf292291b180159454ad183dd158b07d027fdf13a233dec5fe245072b78bda76)
 
 The quote section is inside the `main`:
 
@@ -206,7 +206,7 @@ mandatory
 
 Let’s now add the videos list:
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/a5712ac70330c6812c6aee2bf21efe7ac53d1397.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3a7d64446219805ed186ed715e7d6339940a5cca6c0e80ffde631db7f91e4953)
+![7](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/a5712ac70330c6812c6aee2bf21efe7ac53d1397.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3a7d64446219805ed186ed715e7d6339940a5cca6c0e80ffde631db7f91e4953)
 
 New `section` with inside:
 
@@ -246,7 +246,7 @@ mandatory
 
 Membership section is similar as the videos list:
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/1ddf18bc6d89725de2fde4881e8990fae6d89628.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0a74696084e6ea1e431abbc871e7673cc972bf6789dd84fce98fc5e42a0eaa06)
+![8](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/1ddf18bc6d89725de2fde4881e8990fae6d89628.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0a74696084e6ea1e431abbc871e7673cc972bf6789dd84fce98fc5e42a0eaa06)
 
 After the videos list section, add a new `section` containing:
 
@@ -281,7 +281,7 @@ mandatory
 
 The FAQ section is ending the page before the footer:
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/e4b2806abe9edc126fa0d4155aaf5d7e7da479e4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3aea1c8c8cc4cd97eeae7a74d2d6cab52ccfaaa08c8b5b8f02b66ed4f279d56e)
+![9](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/e4b2806abe9edc126fa0d4155aaf5d7e7da479e4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=3aea1c8c8cc4cd97eeae7a74d2d6cab52ccfaaa08c8b5b8f02b66ed4f279d56e)
 
 Add a `section` for the FAQ with inside:
 
@@ -315,7 +315,7 @@ mandatory
 
 And… the footer!
 
-![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/7224527ac842981b3b387cd9d713b4a1b912a487.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=46adad3847957d26d0e467e85f0741105871fccd29219aabfac377de6932d2fb)
+![10](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/7224527ac842981b3b387cd9d713b4a1b912a487.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=46adad3847957d26d0e467e85f0741105871fccd29219aabfac377de6932d2fb)
 
 After the last `section`, outside of the `main`, add a `footer`:
 

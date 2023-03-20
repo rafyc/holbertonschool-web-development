@@ -9,7 +9,7 @@ _For this project, we expect you to look at these concepts:_
 - [HTML Semantic Elements](https://intranet.hbtn.io/concepts/838)
 - [HTML Validation](https://intranet.hbtn.io/concepts/839)
 
-![1](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg)
+![1](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/1f4cd63ecc3a8c03b0f4309b74aca179e225aabf.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=8e18d46fac25691d98fe2dbf68032a33da7b80bbcee1e1fbe3271fc457d5dc8a)
 
 ![2](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2021/4/97c8976d2ff5ff1871d7a0815b72773379df6acb.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20230320%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20230320T093324Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=73c7a0dd0525d5ecd68654b2bef1484c1b1aa23bd49165e8c876c50c503bc97a)
 

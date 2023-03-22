@@ -318,21 +318,26 @@ footer {
   display: flex;
   height: 249px;
   background-color: #071629;
-  justify-content: center;
-  align-items: center;
+  justify-content: flex-end;
+  flex-direction: column;
+  padding: 0 10% 0 10%;
 }
 footer p {
   text-align: center;
   font-size: 12px;
   color: rgba(255, 255, 255, 0.502);
+  margin-bottom: 39px;
 }
 .footer_container {
   display: flex;
-  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 40px;
 }
 
-.footer_logo {
+.social {
   display: flex;
-  flex-direction: column;
-  align-items: flex-end;
+}
+
+.social img {
+  padding: 12px;
 }

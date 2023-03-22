@@ -1,3 +1,6 @@
+* {
+  font-family: "Source Sans Pro", sans-serif;
+}
 header {
   /* background-image: url("./assets/background.png");
   background-repeat: no-repeat;
@@ -49,6 +52,7 @@ header ul {
 .banner h2 {
   display: flex;
   justify-content: center;
+  font-weight: 100;
   font-size: 32px;
   margin-top: 168px;
   margin-bottom: 87px;
@@ -122,4 +126,88 @@ button {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+}
+
+.quote {
+  background-color: #c271ff;
+  height: 392px;
+  display: flex;
+  justify-content: center;
+}
+.quote_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 55%;
+}
+.quote img {
+  object-fit: cover;
+  border-radius: 50%;
+  margin-right: 53px;
+}
+.quote blockquote {
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 34px;
+}
+.person_name {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 22px;
+  margin-bottom: 10px;
+}
+
+.subtitle_name {
+  font-style: italic;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 200;
+}
+.video {
+  display: flex;
+  flex-direction: column;
+}
+.video_container {
+  display: flex;
+  justify-content: flex-end;
+}
+.video h1 {
+  color: #071629;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  font-weight: 100;
+  font-size: 32px;
+  padding: 87px 0 87px;
+}
+.video h2 {
+  color: #071629;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 18px;
+  margin-bottom: 7px;
+}
+.video p {
+  color: #07162979;
+  font-size: 14px;
+  line-height: 24px;
+  max-width: 60%;
+}
+.video h3 {
+  color: #c271ff;
+}
+.min_avatar {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 30px;
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  margin: 13px 0 13px 0;
+}
+
+.author h3 {
+  margin-left: 13px;
 }

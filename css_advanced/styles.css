@@ -169,7 +169,7 @@ button {
 }
 .video_container {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   margin-bottom: 87px;
 }
 .video h1 {
@@ -222,11 +222,14 @@ button {
   padding-left: 130px;
 }
 
+.player_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .player {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
 }
 
 .membership {
